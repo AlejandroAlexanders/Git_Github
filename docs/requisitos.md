@@ -3,3 +3,5 @@
 - Avisar cuando el stock baje del mínimo
 - Formato de exportación: CSV
 - Acceso solo para personal del almacén
+- Generar un informe mensual de productos más vendidos
+- Registrar fecha y usuario en cada cambio de stock
